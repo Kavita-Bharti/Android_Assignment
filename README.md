@@ -18,7 +18,7 @@ Data Layer – Uses Retrofit for network calls and Room for storing favorite pro
 Setup Instructions
 
 1.Clone the repository
-    ```git clone <repository-url>```
+    ```git clone https://github.com/Kavita-Bharti/Android_Assignment.git```
 
 2.Open the project in Android Studio
 
